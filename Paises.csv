@@ -1,0 +1,327 @@
+country;Code
+Afganistán;004
+Afghanistan;004
+Albania;008
+Alemania;276
+Algeria;012
+Andorra;020
+Angola;024
+Anguila;660
+Antártida;010
+Antigua y Barbuda;028
+Arabia Saudita;682
+Argelia;012
+Argentina;032
+Armenia;051
+Aruba;533
+Australia;036
+Austria;040
+Azerbaijan;031
+Azerbaiyán;031
+Bahamas;044
+Bahrain;048
+Bahrein;048
+Bailía de Guernsey;831
+Bangladesh;050
+Barbados;052
+Belarus;112
+Belarús;112
+Bélgica;056
+Belgium;056
+Belice;084
+Benín;204
+Bermudas;060
+Bolivia;068
+Bosnia and Herzegovina;070
+Bosnia y Hercegovina;070
+Botsuana;072
+Botswana;072
+Brasil;076
+Brazil;076
+Brunéi;096
+Bulgaria;100
+Burkina Faso;854
+Burundi;108
+Bután;064
+Cabo Verde;132
+Cambodia;116
+Camboya;116
+Cameroon;120
+Camerún;120
+Canada;124
+Canadá;124
+Caribe Neerlandés;535
+Catar;634
+Chad;148
+Chequia;203
+Chile;152
+China;156
+Chipre;196
+Ciudad del Vaticano;336
+Colombia;170
+Comores;174
+Corea del Norte;408
+Corea del Sur;410
+Costa de Marfil;384
+Costa Rica;188
+Croacia;191
+Croatia;191
+Cuba;192
+Curaçao;531
+Cyprus;196
+Denmark;208
+Dinamarca;208
+Dominica;212
+Dominican Republic;214
+Ecuador;218
+Egipto;818
+Egypt;818
+El Salvador;222
+Emiratos Árabes Unidos;784
+Eritrea;232
+Eslovaquia;703
+Eslovenia;705
+España;724
+Estados Federados de Micronesia;583
+Estados Unidos de América;840
+Estonia;233
+Esuatini;748
+Ethiopia;231
+Etiopía;231
+Filipinas;608
+Finland;246
+Finlandia;246
+Fiyi;242
+France;250
+Francia;250
+Gabón;266
+Gambia;270
+Georgia;268
+Georgia del Sur y las Islas Sandwich del Sur;268
+Germany;276
+Ghana;288
+Gibraltar;292
+Granada;308
+Grecia;300
+Greece;300
+Groenlandia;304
+Guadalupe;312
+Guam;316
+Guatemala;320
+Guayana;328
+Guayana Francesa;254
+Guinea;324
+Guinea Ecuatorial;226
+Guinea-Bissau;624
+Guyana;328
+Haití;332
+Honduras;340
+Hong Kong;344
+Hungary;348
+Hungría;348
+Iceland;352
+India;356
+Indonesia;360
+Iran;364
+Irán;364
+Iraq;368
+Ireland;372
+Irlanda;372
+Isla Bouvet;074
+Isla de Man;833
+Isla de Navidad;162
+Isla de San Martín;663
+Isla Mauricio;480
+Isla Norfolk;574
+Islandia;352
+Islas Åland;248
+Islas Caimán;136
+Islas Cocos;166
+Islas Cook;184
+Islas Feroe;234
+Islas Heard y McDonald;334
+Islas Malvinas;238
+Islas Marianas del Norte;580
+Islas Marshall;584
+Islas Pitcairn;612
+Islas Salomón;090
+Islas Turcas y Caicos;796
+Islas ultramarinas menores de los Estados Unidos;581
+Islas Vírgenes (UK);092
+Islas Vírgenes Americanas;850
+Israel;376
+Italia;380
+Italy;380
+Jamaica;388
+Japan;392
+Japón;392
+Jersey;832
+Jordan;400
+Jordania;400
+Kazajistán???;398
+Kazakhstan;398
+Kenia;404
+Kenya;404
+Kirguistán;417
+Kiribati;296
+Kosovo;412
+Kuwait;414
+Kyrgyzstan;417
+Laos;418
+Latvia;428
+Lebanon;422
+Lesotho;426
+Letonia;428
+Líbano;422
+Liberia;430
+Libia;434
+Libya;434
+Liechtenstein;438
+Lithuania;440
+Lituania;440
+Luxemburgo;442
+Macao;446
+Macedonia del Norte;807
+Madagascar;450
+Malasia;458
+Malaui;454
+Malaysia;458
+Maldivas;462
+Mali;466
+Malí;466
+Malta;470
+Marruecos;504
+Martinica;474
+Mauritania;478
+Mauritius;478
+Mayotte;175
+Mexico;484
+México;484
+Moldavia;498
+Moldova;498
+Mongolia;496
+Montenegro;499
+Montserrat;500
+Morocco;504
+Mozambique;508
+Myanmar;104
+Namibia;516
+Nauru;520
+Nepal;524
+Netherlands;528
+New Zealand;554
+Nicaragua;558
+Níger;562
+Nigeria;566
+Niue;570
+Noruega;578
+Norway;578
+Nueva Caledonia;540
+Nueva Zelandia;554
+Oman;512
+Omán;512
+Países Bajos;528
+Pakistan;586
+Pakistán;586
+Palaos;585
+Palestina;275
+Panama;591
+Panamá;591
+Papua New Guinea;598
+Papúa Nueva Guinea;598
+Paraguay;600
+Peru;604
+Perú;604
+Philippines;608
+Poland;616
+Polinesia Francesa;258
+Polonia;616
+Portugal;620
+Principado de Mónaco;492
+Puerto Rico;630
+Qatar;634
+Reino Unido;826
+República Centroafricana;140
+República del Congo;178
+República Democrática del Congo;180
+República Dominicana;214
+Reunión;638
+Romania;642
+Ruanda;646
+Rumania;642
+Rusia;643
+Russia;643
+Rwanda;646
+Sáhara Occidental;732
+Samoa;882
+Samoa Americana;016
+San Bartolomé;652
+San Cristóbal y Nieves;659
+San Marino;674
+San Pedro y Miquelón;666
+San Vicente y las Granadinas;670
+Santa Elena, Ascensión y Tristán de Acuña;654
+Santa Lucía;662
+Santo Tomé y Príncipe;678
+Saudi Arabia;682
+Senegal;686
+Serbia;688
+Seychelles;690
+Sierra Leona;694
+Singapore;702
+Singapur;702
+Sint Maarten;534
+Siria;760
+Slovakia;703
+Slovenia;705
+Somalia;706
+South Africa;710
+South korea;410
+Spain;724
+Sri Lanka;144
+Sudáfrica;710
+Sudan;729
+Sudán;729
+Sudán del Sur;728
+Suecia;752
+Suiza;756
+Surinam;740
+Svalbard y Jan Mayen;744
+Sweden;752
+Switzerland;756
+Tailandia;764
+Taiwán;158
+Tanzania;834
+Tayikistán;762
+Territorio Británico del Océano Índico;086
+Territorios Australes y Antárticos Franceses;260
+Thailand;764
+Timor Oriental;626
+Togo;768
+Tokelau;772
+Tonga;776
+Trinidad y Tobago;780
+Túnez;788
+Tunisia;788
+Turkey;792
+Turkmenistán;795
+Turquía;792
+Tuvalu;798
+Ucrania;804
+Uganda;800
+Ukraine;804
+United Arab Emirates;784
+United Kingdom;826
+United States;840
+Uruguay;858
+Uzbekistan;860
+Uzbekistán;860
+Vanuatu;548
+Venezuela;862
+Vietnam;704
+Wallis y Futuna;876
+Yemen;887
+Yibuti;262
+Zambia;894
+Zimbabue;716
+Zimbabwe;716
