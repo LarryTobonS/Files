@@ -17,9 +17,9 @@ jobs:
       uses: mysql-action/setup-mysql@v1
       with:
         mysql-host: ${{ cualquiera123456.000webhostapp.com }}
-        mysql-port: ${{ prueba }}
+        mysql-port: ${{ id20744734_prueba }}
         mysql-username: ${{ prueba123456 }}
         mysql-password: ${{ Conprueba1* }}
 
     - name: Ejecutar script de inserción de registros
-      run: mysql -h ${{ cualquiera123456.000webhostapp.com }} -P ${{ prueba }} -u ${{ prueba123456 }} -p"${{ Conprueba1* }}" < registros.sql
+      run: mysql -h ${{ cualquiera123456.000webhostapp.com }} -P ${{ id20744734_prueba }} -u ${{ prueba123456 }} -p"${{ Conprueba1* }}" < registros.sql
